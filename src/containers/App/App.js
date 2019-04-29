@@ -7,6 +7,8 @@ import NotFound from '../../pages/NotFound';
 import Profile from '../../pages/Profile';
 import ProfileEditor from '../../pages/ProfileEditor';
 
+import TruckList from '../../pages/trucks/TruckList';
+
 class App extends React.Component {
   render() {
     return (
@@ -17,6 +19,8 @@ class App extends React.Component {
         <Route path="/register" exact component={Register}/>
         <Route path="/profile" exact component={Profile}/>
         <Route path="/profile/edit" exact component={ProfileEditor}/>
+        {/* Trucks management */}
+        <Route path="/truck" exact component={TruckList}/>
         <Route component={NotFound}/>
       </Switch>
     );

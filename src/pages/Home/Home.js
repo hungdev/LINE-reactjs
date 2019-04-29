@@ -40,7 +40,7 @@ class Home extends React.PureComponent {
             <Auth guest={() => (
               <React.Fragment>
                 <Heading size={900} color="#FFFFFF">Truck Management Dashboard</Heading>
-                <Heading marginTop={8} marginBottom={8}>What should we do next?</Heading>
+                <Heading marginTop={8} marginBottom={8}>Please login to continue</Heading>
                 <Button marginRight={12} appearance="primary" intent="success" onClick={() => this.props.history.push('/register')}>Register</Button>
                 <Button appearance="primary" onClick={() => this.props.history.push('/login')}>Login</Button>
               </React.Fragment>
