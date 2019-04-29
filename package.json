@@ -18,6 +18,7 @@
     "react-dom": "^16.8.2",
     "react-helmet": "^5.2.0",
     "react-router-dom": "^4.3.1",
+    "shortid": "^2.2.14",
     "ui-box": "^1.4.0",
     "yup": "^0.26.10"
   },
