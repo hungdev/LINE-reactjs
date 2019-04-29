@@ -181,6 +181,10 @@ class TruckList extends React.PureComponent {
             <Paragraph fontWeight={400}>{popup.parkingAddress}</Paragraph>
           </Card>
           <Card background="tint1" elevation={0} border padding={8} marginBottom={8}>
+            <Heading is="h3" size={100}>Description</Heading>
+            <Paragraph fontWeight={400} fontSize="10pt" lineHeight="12pt">{popup.description}</Paragraph>
+          </Card>
+          <Card background="tint1" elevation={0} border padding={8} marginBottom={8}>
             <Heading is="h3" size={100}>Status</Heading>
             <Paragraph fontWeight={400}><Strong>{popup.status}</Strong></Paragraph>
           </Card>

@@ -9,6 +9,7 @@ import Profile from '../../pages/Profile';
 import ProfileEditor from '../../pages/ProfileEditor';
 
 import TruckList from '../../pages/trucks/TruckList';
+import TruckCreate from '../../pages/trucks/TruckCreate';
 
 class App extends React.Component {
   render() {
@@ -22,6 +23,8 @@ class App extends React.Component {
         <Route path="/profile/edit" exact component={ProfileEditor}/>
         {/* Trucks management */}
         <Route path="/trucks" exact component={TruckList}/>
+        <Route path="/trucks/new" exact component={TruckCreate}/>
+        {/* Fallback rounte - Not found */}
         <Route component={NotFound}/>
       </Switch>
     );
