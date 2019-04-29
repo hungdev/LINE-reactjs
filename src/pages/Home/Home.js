@@ -22,7 +22,7 @@ class Home extends React.PureComponent {
   menuSelected(item) {
     switch (item) {
       case 'truck':
-        this.props.history.push('/truck');
+        this.props.history.push('/trucks');
         break;
       default:
         toaster.warning(`Menu for ${item} is not implemented yet`);

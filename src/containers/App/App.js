@@ -20,7 +20,7 @@ class App extends React.Component {
         <Route path="/profile" exact component={Profile}/>
         <Route path="/profile/edit" exact component={ProfileEditor}/>
         {/* Trucks management */}
-        <Route path="/truck" exact component={TruckList}/>
+        <Route path="/trucks" exact component={TruckList}/>
         <Route component={NotFound}/>
       </Switch>
     );
