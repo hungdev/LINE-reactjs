@@ -1,0 +1,2019 @@
+[
+  {
+    "id": "tlUVSavkr",
+    "plate": "30T-64797",
+    "cargoTypes": [
+      "Electronic"
+    ],
+    "driver": "Carleton Morissette",
+    "type": "20 tons",
+    "price": 13000000000,
+    "dimension": [
+      12.4,
+      1.4,
+      2
+    ],
+    "parkingAddress": "517 Nader Squares",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Voluptatem ea quo blanditiis maiores et tempore ratione. Voluptatum non est doloribus assumenda molestiae repellat est. Consectetur ut pariatur fugit provident harum. Ipsam eveniet blanditiis harum molestiae laudantium ex beatae repellat. Officiis laboriosam saepe ut repudiandae ea. Quod iste non fuga voluptas et nihil error similique."
+  },
+  {
+    "id": "f6Vi7nAgqg",
+    "plate": "30T-34017",
+    "cargoTypes": [
+      "Electronic",
+      "Fish"
+    ],
+    "driver": "Aniyah Rau",
+    "type": "5 tons",
+    "price": 13000000000,
+    "dimension": [
+      12.2,
+      1.2,
+      1.3
+    ],
+    "parkingAddress": "7468 Frieda Trail",
+    "status": "New",
+    "productionYear": 2012,
+    "description": "Molestiae porro deleniti dignissimos dicta rerum exercitationem aliquid adipisci officiis. Quos omnis reprehenderit. Eum non in illum sint voluptas id omnis nihil cum."
+  },
+  {
+    "id": "hpVBCspJXd",
+    "plate": "30T-40893",
+    "cargoTypes": [
+      "Cosmetic",
+      "Gabarge",
+      "Fish"
+    ],
+    "driver": "Maiya Gulgowski",
+    "type": "20 tons",
+    "price": 15000000000,
+    "dimension": [
+      13.2,
+      1.8,
+      1.7
+    ],
+    "parkingAddress": "66071 Darren Oval",
+    "status": "Defunct",
+    "productionYear": 2008,
+    "description": "Porro harum exercitationem inventore id reiciendis ipsa. Ut soluta voluptates odio et in et sit. Nulla alias est consectetur. Aliquid unde harum eius qui nobis voluptatem explicabo. Nobis magni dolor odit totam dolor blanditiis quia eum voluptas. Sunt voluptatem velit omnis libero quisquam ea."
+  },
+  {
+    "id": "_u_85A6YH-",
+    "plate": "30D-18532",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Thad Bogan",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      11.1,
+      1.3,
+      1.4
+    ],
+    "parkingAddress": "0643 Welch Vista",
+    "status": "In-use",
+    "productionYear": 1997,
+    "description": "Voluptas suscipit corporis sint qui vel sequi quia. Nihil aspernatur est rem voluptatem nihil. Saepe perspiciatis rerum sapiente quia."
+  },
+  {
+    "id": "63ouRng9cp",
+    "plate": "30D-77520",
+    "cargoTypes": [
+      "Fish",
+      "Electronic",
+      "Vegetable"
+    ],
+    "driver": "Gabriel Wilkinson",
+    "type": "15 tons",
+    "price": 15000000000,
+    "dimension": [
+      13.5,
+      2,
+      1.3
+    ],
+    "parkingAddress": "9966 Ryleigh Forks",
+    "status": "In-use",
+    "productionYear": 2009,
+    "description": "Odio quia velit. Dolorem soluta illum. Consequuntur est quam nobis quidem doloribus ut omnis. Odio nisi est rem velit porro accusantium odio. Aliquam numquam eaque omnis odio aut occaecati inventore non aut. Iusto veritatis est ut iste omnis quia aliquid."
+  },
+  {
+    "id": "HmEwK2whfP",
+    "plate": "30D-16865",
+    "cargoTypes": [
+      "Gabarge",
+      "Fish",
+      "Cosmetic"
+    ],
+    "driver": "Neal Moore",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      14.3,
+      1.3,
+      1.6
+    ],
+    "parkingAddress": "9433 Hobart Route",
+    "status": "Defunct",
+    "productionYear": 2002,
+    "description": "Minus quis inventore vel. Ipsum excepturi sunt nisi voluptas est excepturi voluptate ipsa aut. Assumenda iusto similique dolor nostrum. Pariatur aliquam quisquam eveniet ea nulla ut optio quisquam omnis."
+  },
+  {
+    "id": "NQmbbtLqgN",
+    "plate": "31F-50549",
+    "cargoTypes": [
+      "Gabarge",
+      "Cosmetic",
+      "Vegetable"
+    ],
+    "driver": "Mrs. Bettye Greenholt",
+    "type": "20 tons",
+    "price": 12000000000,
+    "dimension": [
+      13,
+      1.5,
+      1.8
+    ],
+    "parkingAddress": "7946 Christiansen Ford",
+    "status": "Defunct",
+    "productionYear": 1992,
+    "description": "Recusandae quasi tempora ut qui non. Odit corrupti et dolores et eveniet pariatur quo accusantium sint. Consequatur assumenda pariatur accusamus qui ut."
+  },
+  {
+    "id": "beLNdgTXgm",
+    "plate": "31W-91919",
+    "cargoTypes": [
+      "Vegetable",
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Verona Hegmann",
+    "type": "5 tons",
+    "price": 15000000000,
+    "dimension": [
+      11.1,
+      1.8,
+      2
+    ],
+    "parkingAddress": "39336 Kohler Mount",
+    "status": "Defunct",
+    "productionYear": 1999,
+    "description": "Nulla autem fuga distinctio at cum tempore autem velit. Qui soluta et tempore qui autem alias sed ipsum. Rerum modi odio impedit aspernatur. Quae qui quam consequatur animi doloribus."
+  },
+  {
+    "id": "FSFuxyVV9J",
+    "plate": "31P-68541",
+    "cargoTypes": [
+      "Clothers"
+    ],
+    "driver": "Brett Leannon",
+    "type": "10 tons",
+    "price": 13000000000,
+    "dimension": [
+      14.7,
+      1.4,
+      1.6
+    ],
+    "parkingAddress": "567 Kelly Avenue",
+    "status": "In-use",
+    "productionYear": 2019,
+    "description": "Sunt eum dolor. Eum deserunt est sed voluptatum quasi. Qui quam quo ut aut dolores distinctio est. Est consequuntur tempore quae quia eos."
+  },
+  {
+    "id": "qHIlDlESUM",
+    "plate": "30B-10507",
+    "cargoTypes": [
+      "Cosmetic",
+      "Clothers"
+    ],
+    "driver": "Camron Daugherty Sr.",
+    "type": "10 tons",
+    "price": 11000000000,
+    "dimension": [
+      10.8,
+      1.9,
+      2
+    ],
+    "parkingAddress": "95971 Ullrich Shoal",
+    "status": "New",
+    "productionYear": 2015,
+    "description": "Dolorem illo est. A et et qui non dolorum vero quas nemo molestiae. Recusandae voluptatem rerum id quae architecto sed aut repellat. Quidem atque illo eos sint. Consectetur et tenetur necessitatibus."
+  },
+  {
+    "id": "JjkGTrdjXh",
+    "plate": "30G-17058",
+    "cargoTypes": [
+      "Vegetable",
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Winnifred Turcotte DDS",
+    "type": "10 tons",
+    "price": 14000000000,
+    "dimension": [
+      12,
+      1.2,
+      1.4
+    ],
+    "parkingAddress": "42710 McCullough Village",
+    "status": "New",
+    "productionYear": 2006,
+    "description": "Accusantium sunt corporis quibusdam culpa. Assumenda facilis maxime est quae. Nisi delectus praesentium amet quae."
+  },
+  {
+    "id": "Ym1tHWN9P0",
+    "plate": "30E-04871",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable",
+      "Clothers"
+    ],
+    "driver": "Hilma Leffler",
+    "type": "20 tons",
+    "price": 12000000000,
+    "dimension": [
+      11.3,
+      2,
+      1.6
+    ],
+    "parkingAddress": "149 Elenor Flat",
+    "status": "New",
+    "productionYear": 2019,
+    "description": "Et aperiam numquam ea rerum. Sint quo rerum consectetur officiis rerum optio velit. Minus consequatur autem quidem consequuntur voluptate praesentium omnis quasi. Voluptatibus ab autem eveniet facilis a necessitatibus ea minima. Et dolore sunt qui magnam. Molestiae aliquam fugit non doloribus ut explicabo nam inventore nemo."
+  },
+  {
+    "id": "sLwxWwJzmU",
+    "plate": "31B-27552",
+    "cargoTypes": [
+      "Electronic",
+      "Cosmetic"
+    ],
+    "driver": "Aurore Fritsch",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      11.5,
+      1.4,
+      1.2
+    ],
+    "parkingAddress": "18614 Liliana Freeway",
+    "status": "Defunct",
+    "productionYear": 2002,
+    "description": "Facilis expedita laborum ipsum. Qui ut velit ex quasi est eum eum. Et recusandae consequatur rerum voluptatem nisi voluptatem dolores."
+  },
+  {
+    "id": "dX-dO8uU7k",
+    "plate": "31B-52601",
+    "cargoTypes": [
+      "Vegetable"
+    ],
+    "driver": "Vivien Kovacek",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      11.2,
+      1.4,
+      1.5
+    ],
+    "parkingAddress": "418 Ward Courts",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Eos unde dolores. Minus in ab aut porro doloremque ut. Quae vitae earum explicabo. Iste quam eveniet dolor. Magni et deserunt possimus animi ullam."
+  },
+  {
+    "id": "el-QwGvyIr",
+    "plate": "30M-85514",
+    "cargoTypes": [
+      "Fish",
+      "Vegetable"
+    ],
+    "driver": "Vergie Leuschke",
+    "type": "10 tons",
+    "price": 13000000000,
+    "dimension": [
+      10.3,
+      1.2,
+      1.9
+    ],
+    "parkingAddress": "488 Waelchi Forges",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Omnis et reiciendis soluta neque saepe. Aut omnis quia in. Delectus quia iure fuga dolores. Qui aut et modi beatae."
+  },
+  {
+    "id": "4wqKd2fkbu",
+    "plate": "31P-41225",
+    "cargoTypes": [
+      "Fish",
+      "Electronic",
+      "Vegetable"
+    ],
+    "driver": "Miss Geraldine Huel",
+    "type": "20 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.5,
+      1.7,
+      1.2
+    ],
+    "parkingAddress": "0930 Marquise Glens",
+    "status": "In-use",
+    "productionYear": 1997,
+    "description": "Omnis deserunt distinctio esse dignissimos nostrum. Consequatur non provident quas sunt consequatur natus aut nihil. Ab consequatur nobis ex. Reprehenderit voluptatum quisquam dolorum aut voluptatem. Nam laboriosam voluptas. Quae qui deleniti assumenda totam veritatis in iste."
+  },
+  {
+    "id": "YoY03nzsjiL",
+    "plate": "30I-01112",
+    "cargoTypes": [
+      "Clothers",
+      "Electronic",
+      "Fish"
+    ],
+    "driver": "Gerry Erdman",
+    "type": "5 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.7,
+      1.7,
+      1.2
+    ],
+    "parkingAddress": "373 Bayer Keys",
+    "status": "In-use",
+    "productionYear": 2004,
+    "description": "Excepturi quia quaerat aut accusamus earum. Voluptatem et quia amet in. Et vero molestiae dolor voluptas ducimus necessitatibus accusamus iure blanditiis."
+  },
+  {
+    "id": "ZgkMmSFj8L7",
+    "plate": "30C-13012",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable",
+      "Fish"
+    ],
+    "driver": "Joanie Tromp",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      11.3,
+      1.5,
+      2
+    ],
+    "parkingAddress": "255 Kaylie Mall",
+    "status": "In-use",
+    "productionYear": 2002,
+    "description": "Ut sequi ut ullam modi qui aut aperiam. Qui quibusdam a quo quasi quo reprehenderit debitis enim. Accusamus ab beatae inventore facilis consequuntur. Quia et esse praesentium vitae adipisci quas."
+  },
+  {
+    "id": "0OzYZZzOjwr",
+    "plate": "30C-20413",
+    "cargoTypes": [
+      "Electronic",
+      "Clothers",
+      "Vegetable"
+    ],
+    "driver": "Shane Bauch",
+    "type": "15 tons",
+    "price": 12000000000,
+    "dimension": [
+      11.6,
+      1.7,
+      1.9
+    ],
+    "parkingAddress": "68648 Sawayn Key",
+    "status": "New",
+    "productionYear": 1994,
+    "description": "Voluptate nam ut odio voluptas numquam. Natus facilis non. Asperiores occaecati nulla sed qui repellat. Fugit repellat eum ipsum et. Et nihil nostrum quo fugit mollitia."
+  },
+  {
+    "id": "l_o8zl4tDC-",
+    "plate": "30H-28062",
+    "cargoTypes": [
+      "Fish",
+      "Electronic",
+      "Clothers"
+    ],
+    "driver": "Mr. Kaylah Goyette",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      11,
+      1.6,
+      1.2
+    ],
+    "parkingAddress": "70135 Kilback Villages",
+    "status": "New",
+    "productionYear": 2000,
+    "description": "Eaque quis qui quae voluptatem in sapiente. Culpa eos totam dolores consequatur corporis nihil assumenda possimus. Ea rerum et maiores animi fugiat veritatis soluta. Saepe laboriosam repellat sapiente architecto omnis ut vero reprehenderit animi. Molestias praesentium dicta quisquam sunt et et doloribus. Sint doloribus necessitatibus maiores laboriosam."
+  },
+  {
+    "id": "HE7fg6axM25",
+    "plate": "31S-21758",
+    "cargoTypes": [
+      "Fish",
+      "Cosmetic",
+      "Electronic"
+    ],
+    "driver": "Moises Predovic",
+    "type": "15 tons",
+    "price": 15000000000,
+    "dimension": [
+      11.9,
+      1.7,
+      1.7
+    ],
+    "parkingAddress": "775 McLaughlin Shoals",
+    "status": "Defunct",
+    "productionYear": 2012,
+    "description": "Autem excepturi pariatur esse. Reprehenderit consequuntur consequatur expedita in numquam voluptate sint. Optio facilis molestias ullam qui. Nostrum facilis et iure voluptatem ut."
+  },
+  {
+    "id": "Gbn1lKxJ5P8",
+    "plate": "31P-81770",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Wilfredo Boyle MD",
+    "type": "10 tons",
+    "price": 10000000000,
+    "dimension": [
+      12.3,
+      1.8,
+      1.7
+    ],
+    "parkingAddress": "14658 Barrows Rapids",
+    "status": "In-use",
+    "productionYear": 1994,
+    "description": "Eum debitis deleniti. Aperiam ut a. Quibusdam nihil dolor est sit voluptatum cupiditate voluptatum. Itaque officiis perspiciatis cumque."
+  },
+  {
+    "id": "a3MDmvSWdjO",
+    "plate": "31N-57669",
+    "cargoTypes": [
+      "Fish",
+      "Electronic"
+    ],
+    "driver": "Eliane Effertz",
+    "type": "20 tons",
+    "price": 11000000000,
+    "dimension": [
+      10.2,
+      1.2,
+      2
+    ],
+    "parkingAddress": "1859 Dicki Ways",
+    "status": "Defunct",
+    "productionYear": 2011,
+    "description": "Harum sit non laborum quibusdam nam. Consequatur sequi veritatis id culpa facere non asperiores culpa modi. Libero ea ratione tempora aut quas minus. Provident fugit rerum vero totam eaque. Ullam in tenetur officia eum magni repellat magni voluptatem."
+  },
+  {
+    "id": "vjloMw3GIxn",
+    "plate": "31S-93767",
+    "cargoTypes": [
+      "Electronic"
+    ],
+    "driver": "Tiara Mayert",
+    "type": "20 tons",
+    "price": 13000000000,
+    "dimension": [
+      14.1,
+      2,
+      1.2
+    ],
+    "parkingAddress": "2491 Nicolas Lake",
+    "status": "Defunct",
+    "productionYear": 2019,
+    "description": "Inventore saepe qui sit aut eos tenetur. Sunt reiciendis blanditiis qui incidunt totam qui saepe nisi nostrum. Necessitatibus ex quia blanditiis et modi. Quas rerum laborum sed tempora eos hic cupiditate alias. Distinctio nemo est magni incidunt et atque qui dolores."
+  },
+  {
+    "id": "h6cbx3PMC_X",
+    "plate": "30H-46309",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Treva Kautzer",
+    "type": "15 tons",
+    "price": 15000000000,
+    "dimension": [
+      11.3,
+      1.9,
+      2
+    ],
+    "parkingAddress": "240 Jordy Street",
+    "status": "New",
+    "productionYear": 2014,
+    "description": "Est qui accusantium nisi voluptatum ut asperiores id veniam beatae. Qui ullam sit magnam autem porro iusto necessitatibus. Quae nihil enim nostrum vero quos dolorem dolor impedit veritatis. Molestiae sed et in facilis nemo nemo. In voluptatibus rerum ut sed nisi est. Sit accusamus qui hic explicabo aperiam molestias impedit."
+  },
+  {
+    "id": "GL3nEXvTTst",
+    "plate": "31H-39976",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Kristy Beahan",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      14.1,
+      1.2,
+      1.6
+    ],
+    "parkingAddress": "350 Octavia Well",
+    "status": "In-use",
+    "productionYear": 2010,
+    "description": "Dolor qui qui. Tenetur dolores voluptatem commodi sint quam ea. Consequatur dolorem quam esse voluptatem corporis laudantium consequatur. Qui architecto iure soluta deserunt."
+  },
+  {
+    "id": "sMubz_08UMW",
+    "plate": "30M-72114",
+    "cargoTypes": [
+      "Gabarge",
+      "Fish",
+      "Electronic"
+    ],
+    "driver": "Ignatius Nikolaus",
+    "type": "15 tons",
+    "price": 15000000000,
+    "dimension": [
+      11.4,
+      1.3,
+      1.3
+    ],
+    "parkingAddress": "217 Cummerata Course",
+    "status": "In-use",
+    "productionYear": 1997,
+    "description": "Consequuntur sed iure repudiandae. Cum consequuntur consequatur esse perspiciatis explicabo odio illum in numquam. Vero et perferendis reiciendis occaecati suscipit libero dolorem et ipsa. Similique eaque rerum eveniet."
+  },
+  {
+    "id": "FQouCQMmb7b",
+    "plate": "31T-95998",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Layne Nienow",
+    "type": "15 tons",
+    "price": 11000000000,
+    "dimension": [
+      14.8,
+      2,
+      1.5
+    ],
+    "parkingAddress": "95870 Ned Center",
+    "status": "Defunct",
+    "productionYear": 2019,
+    "description": "Tempore eos incidunt ab porro. Aut delectus dicta. Rerum quaerat cupiditate placeat earum et voluptatem. Consequatur nulla illum omnis modi. Debitis deleniti officiis. Vel magnam itaque sit earum itaque et."
+  },
+  {
+    "id": "B8FB5NG0Wvq",
+    "plate": "30I-65632",
+    "cargoTypes": [
+      "Fish",
+      "Gabarge"
+    ],
+    "driver": "Alexis Shanahan",
+    "type": "15 tons",
+    "price": 11000000000,
+    "dimension": [
+      13.3,
+      2,
+      1.6
+    ],
+    "parkingAddress": "86827 Gail Square",
+    "status": "Defunct",
+    "productionYear": 1991,
+    "description": "Voluptas est dolores necessitatibus. Voluptas dolorem doloribus nemo voluptas. Quas iste laboriosam. Est itaque ut et nemo eaque fugit blanditiis. Perspiciatis assumenda quae ipsa eum ut."
+  },
+  {
+    "id": "liCV0nUpztY",
+    "plate": "30F-81274",
+    "cargoTypes": [
+      "Electronic",
+      "Fish",
+      "Gabarge"
+    ],
+    "driver": "Delphia Williamson",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      12.9,
+      1.4,
+      1.5
+    ],
+    "parkingAddress": "40916 Jerome Fort",
+    "status": "Defunct",
+    "productionYear": 1991,
+    "description": "Quaerat nulla porro commodi veritatis occaecati harum nulla est. Voluptas numquam ex nihil maxime. Quos deleniti aliquam. Et animi fugit."
+  },
+  {
+    "id": "c-gB3iYRi_h",
+    "plate": "31H-59333",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Miss Joanne Stoltenberg",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      10.2,
+      1.3,
+      1.5
+    ],
+    "parkingAddress": "46928 Fisher Skyway",
+    "status": "Defunct",
+    "productionYear": 1990,
+    "description": "Id sequi eum deserunt voluptatem. Rerum numquam numquam. Aliquid qui molestiae numquam est sit quos quibusdam. Consequuntur exercitationem nisi similique doloribus molestiae enim dolor. Tempore ullam sit nesciunt neque quo quibusdam dicta."
+  },
+  {
+    "id": "39iZhBK6zSN",
+    "plate": "31A-90627",
+    "cargoTypes": [
+      "Fish",
+      "Clothers"
+    ],
+    "driver": "Demarcus Gorczany",
+    "type": "10 tons",
+    "price": 10000000000,
+    "dimension": [
+      11.8,
+      1.3,
+      1.6
+    ],
+    "parkingAddress": "364 Marquis Street",
+    "status": "In-use",
+    "productionYear": 2008,
+    "description": "Ut quia velit. Quia atque veniam consectetur sit est et. Et impedit nulla non aut sit dignissimos aut non vero. Et ut nemo eos laborum labore aut animi eum neque. Consectetur corrupti quia eum expedita consequatur aspernatur sequi."
+  },
+  {
+    "id": "0DntAL-9YYy",
+    "plate": "31U-24608",
+    "cargoTypes": [
+      "Fish",
+      "Vegetable",
+      "Cosmetic"
+    ],
+    "driver": "Layne Bogisich II",
+    "type": "10 tons",
+    "price": 15000000000,
+    "dimension": [
+      14.6,
+      1.3,
+      1.9
+    ],
+    "parkingAddress": "62054 Baumbach Shoals",
+    "status": "New",
+    "productionYear": 2018,
+    "description": "Velit vel mollitia iste ut at vel iusto minus dolores. Voluptatem pariatur minima atque asperiores et. Beatae dicta qui facilis voluptatum optio non voluptatem aliquam. Sunt in porro."
+  },
+  {
+    "id": "b7q-IwnSj52",
+    "plate": "30A-86504",
+    "cargoTypes": [
+      "Clothers"
+    ],
+    "driver": "Delia Kuhlman",
+    "type": "5 tons",
+    "price": 14000000000,
+    "dimension": [
+      12.3,
+      1.2,
+      1.5
+    ],
+    "parkingAddress": "4083 Crooks Squares",
+    "status": "In-use",
+    "productionYear": 2005,
+    "description": "Non dolore est similique itaque quod. Quo officia nesciunt libero a. Dolorum praesentium cupiditate esse. Praesentium minima et iusto officiis sint tempora esse dolor dolorem. Culpa hic nihil et autem est. Consequatur qui cum omnis eligendi et veniam molestiae accusantium."
+  },
+  {
+    "id": "gulb200mkh_",
+    "plate": "31L-28209",
+    "cargoTypes": [
+      "Clothers",
+      "Cosmetic",
+      "Electronic"
+    ],
+    "driver": "Camille Waelchi II",
+    "type": "15 tons",
+    "price": 13000000000,
+    "dimension": [
+      13.8,
+      1.4,
+      1.5
+    ],
+    "parkingAddress": "20759 Marcella Greens",
+    "status": "New",
+    "productionYear": 2013,
+    "description": "Autem labore mollitia et nihil. Quisquam inventore voluptatem ad facilis repellendus et. Aut nisi quia eligendi quasi assumenda."
+  },
+  {
+    "id": "1sSDUVN3IMV",
+    "plate": "31F-77758",
+    "cargoTypes": [
+      "Clothers",
+      "Vegetable"
+    ],
+    "driver": "Justyn Keeling",
+    "type": "20 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.7,
+      1.7,
+      1.6
+    ],
+    "parkingAddress": "448 Schimmel Pike",
+    "status": "New",
+    "productionYear": 2019,
+    "description": "Dolore totam error commodi ratione dicta voluptatem. Inventore optio veniam nihil unde sit quia accusantium cupiditate. Est delectus sapiente et assumenda nostrum facilis atque error fugit. Quaerat neque qui ducimus facilis id sunt excepturi. Sit veritatis error sequi rem esse ad necessitatibus dolorum qui. Cum libero accusamus ea libero nihil voluptas."
+  },
+  {
+    "id": "JH4SKJ-tExA",
+    "plate": "31V-15897",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Mrs. Tyreek Krajcik",
+    "type": "5 tons",
+    "price": 11000000000,
+    "dimension": [
+      12,
+      1.9,
+      1.4
+    ],
+    "parkingAddress": "121 Rowland Mews",
+    "status": "Defunct",
+    "productionYear": 2002,
+    "description": "Molestias in voluptatem totam ut quisquam amet. Rem ut assumenda quasi ea rerum maiores. Quia consequatur hic odit et sed odio hic in doloremque. Velit dolores praesentium ullam harum eos et et."
+  },
+  {
+    "id": "pBOYqN9H8L4",
+    "plate": "31E-53844",
+    "cargoTypes": [
+      "Fish",
+      "Vegetable"
+    ],
+    "driver": "Myriam Barrows",
+    "type": "10 tons",
+    "price": 11000000000,
+    "dimension": [
+      14.5,
+      1.6,
+      1.4
+    ],
+    "parkingAddress": "62799 Frederick Track",
+    "status": "Defunct",
+    "productionYear": 2007,
+    "description": "Voluptas doloribus est omnis quis magnam aut occaecati molestiae. Et accusamus ullam qui itaque iste illum pariatur sequi laboriosam. Sed aut quo. Consequatur sit ipsam laboriosam. Assumenda quibusdam fugiat aut et esse ratione consequatur aut."
+  },
+  {
+    "id": "Dh1kcGiW3U9",
+    "plate": "30V-96540",
+    "cargoTypes": [
+      "Electronic",
+      "Gabarge"
+    ],
+    "driver": "Mario Cassin",
+    "type": "20 tons",
+    "price": 11000000000,
+    "dimension": [
+      12.7,
+      2,
+      1.5
+    ],
+    "parkingAddress": "286 Colby Brooks",
+    "status": "New",
+    "productionYear": 2002,
+    "description": "Autem dolore quod accusamus laboriosam libero totam. Voluptas molestiae esse. Eius qui occaecati quia est perferendis necessitatibus placeat voluptatem qui. Voluptatem ut minima nostrum voluptas impedit aliquid vero quam. Voluptate molestiae non quia fuga doloribus provident."
+  },
+  {
+    "id": "-8Vev3VX7Qm",
+    "plate": "31G-55371",
+    "cargoTypes": [
+      "Gabarge",
+      "Electronic",
+      "Vegetable"
+    ],
+    "driver": "Mossie Daugherty",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.6,
+      1.5,
+      2
+    ],
+    "parkingAddress": "239 Turner Islands",
+    "status": "In-use",
+    "productionYear": 1994,
+    "description": "Dolor inventore quos dolor iure assumenda sint. Ut vero nisi eum quis aut et veritatis eos ad. Impedit ipsam vero molestiae sunt id voluptas quidem quod. Esse eligendi consequatur doloremque unde ut exercitationem voluptatum."
+  },
+  {
+    "id": "gWL9WIGdAS2",
+    "plate": "31P-17359",
+    "cargoTypes": [
+      "Fish",
+      "Vegetable"
+    ],
+    "driver": "Jeramy Wisoky",
+    "type": "10 tons",
+    "price": 14000000000,
+    "dimension": [
+      10,
+      1.2,
+      1.6
+    ],
+    "parkingAddress": "8029 Tromp Highway",
+    "status": "New",
+    "productionYear": 1997,
+    "description": "Temporibus voluptatem quis autem consequuntur non quisquam nam temporibus enim. Aut possimus quisquam quasi corrupti. Fugit ut vitae. Sed repudiandae velit voluptas omnis. Recusandae iure aut voluptatem totam ea nam sed qui doloribus. Voluptatibus atque quis hic ipsa harum dolores ducimus neque similique."
+  },
+  {
+    "id": "i0GJIoz87wP",
+    "plate": "30A-19905",
+    "cargoTypes": [
+      "Gabarge"
+    ],
+    "driver": "Gregory Legros",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      11.3,
+      1.9,
+      2
+    ],
+    "parkingAddress": "7165 Mohammad Summit",
+    "status": "In-use",
+    "productionYear": 2015,
+    "description": "Dolorum eveniet ea officiis et eveniet incidunt illum facilis eligendi. Blanditiis similique sunt ipsum quibusdam. Deserunt et et. Amet sunt mollitia labore similique maiores. Animi praesentium est dolores tempore sunt. Eius modi voluptate et est quae."
+  },
+  {
+    "id": "w5hpC37tHX7",
+    "plate": "30Q-50403",
+    "cargoTypes": [
+      "Vegetable",
+      "Gabarge",
+      "Fish"
+    ],
+    "driver": "Janick Cartwright",
+    "type": "5 tons",
+    "price": 15000000000,
+    "dimension": [
+      12.2,
+      1.2,
+      1.5
+    ],
+    "parkingAddress": "3242 Meta Way",
+    "status": "New",
+    "productionYear": 2019,
+    "description": "Facere id accusantium fuga ipsam vel officia maxime. Et modi dignissimos itaque accusamus fugit. Enim asperiores eligendi voluptates temporibus. Voluptatibus sequi repudiandae voluptatem deserunt excepturi fugiat et. Ex molestiae accusantium autem sed rerum aliquid dolorum corporis."
+  },
+  {
+    "id": "ma-lJt-7N9b",
+    "plate": "31P-33149",
+    "cargoTypes": [
+      "Vegetable",
+      "Electronic"
+    ],
+    "driver": "Cristopher Yundt",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      13.8,
+      1.2,
+      2
+    ],
+    "parkingAddress": "8637 Anne Path",
+    "status": "In-use",
+    "productionYear": 2019,
+    "description": "Voluptas architecto non velit ut praesentium accusamus repellat sequi quasi. Explicabo labore praesentium quia. Ipsam ullam non id provident sed et. Ut recusandae et. Nihil corporis deserunt nam officiis aut consectetur."
+  },
+  {
+    "id": "OqGT4JfYOX4",
+    "plate": "31F-28597",
+    "cargoTypes": [
+      "Electronic",
+      "Fish",
+      "Vegetable"
+    ],
+    "driver": "Elmo Legros",
+    "type": "5 tons",
+    "price": 15000000000,
+    "dimension": [
+      11.9,
+      1.8,
+      1.7
+    ],
+    "parkingAddress": "22688 Agustina Locks",
+    "status": "Defunct",
+    "productionYear": 2017,
+    "description": "Eaque atque nihil. Molestiae et voluptates consequuntur quidem est. Eum veritatis autem aliquam est fuga cumque aperiam. Incidunt in quae omnis voluptatem tempore sapiente. Molestiae id vel qui quae architecto."
+  },
+  {
+    "id": "PifzdBpgUZW",
+    "plate": "31L-70901",
+    "cargoTypes": [
+      "Fish",
+      "Clothers",
+      "Electronic"
+    ],
+    "driver": "Verlie Rutherford",
+    "type": "20 tons",
+    "price": 13000000000,
+    "dimension": [
+      10.8,
+      1.4,
+      1.4
+    ],
+    "parkingAddress": "28314 Wintheiser Lodge",
+    "status": "New",
+    "productionYear": 2009,
+    "description": "Ratione illum excepturi facere ipsa fugiat. Repudiandae deserunt ut nesciunt odio. Sed animi odio vel aut eius consectetur provident ea consequatur."
+  },
+  {
+    "id": "GIiEBBB-zzx",
+    "plate": "30W-33603",
+    "cargoTypes": [
+      "Fish",
+      "Vegetable",
+      "Clothers"
+    ],
+    "driver": "Rahsaan Paucek",
+    "type": "10 tons",
+    "price": 11000000000,
+    "dimension": [
+      10.4,
+      1.4,
+      2
+    ],
+    "parkingAddress": "22093 Nikita Mews",
+    "status": "New",
+    "productionYear": 2014,
+    "description": "Delectus consequuntur et rerum. Quibusdam aut fugiat. Exercitationem ut repellendus est dolores dignissimos voluptas voluptas ipsa impedit. Consectetur hic officiis qui culpa."
+  },
+  {
+    "id": "dLQLIQ53y--",
+    "plate": "30L-13445",
+    "cargoTypes": [
+      "Electronic",
+      "Clothers",
+      "Vegetable"
+    ],
+    "driver": "Akeem Murray",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      13.1,
+      1.9,
+      1.3
+    ],
+    "parkingAddress": "91504 Johnson Spring",
+    "status": "Defunct",
+    "productionYear": 1998,
+    "description": "Consectetur explicabo dolorum nisi similique et. Odio necessitatibus sed rerum. Illo occaecati ea provident ratione porro amet facere aut officia. Sunt inventore necessitatibus a fugiat perspiciatis."
+  },
+  {
+    "id": "bxJjQN6_4Ql",
+    "plate": "30R-95989",
+    "cargoTypes": [
+      "Fish",
+      "Clothers"
+    ],
+    "driver": "Jodie Jaskolski",
+    "type": "20 tons",
+    "price": 10000000000,
+    "dimension": [
+      10.8,
+      2,
+      1.5
+    ],
+    "parkingAddress": "448 Andrew Pines",
+    "status": "New",
+    "productionYear": 1995,
+    "description": "Modi consequuntur cum sit. Numquam enim mollitia repudiandae dignissimos placeat ullam ratione. Repudiandae animi earum quas laborum voluptatum illum. Sit repudiandae ut voluptatem laboriosam quidem nemo."
+  },
+  {
+    "id": "VfsKYHmp_YP",
+    "plate": "30R-90632",
+    "cargoTypes": [
+      "Electronic"
+    ],
+    "driver": "Verna Tremblay",
+    "type": "5 tons",
+    "price": 11000000000,
+    "dimension": [
+      11.1,
+      1.4,
+      1.6
+    ],
+    "parkingAddress": "49867 Jane Villages",
+    "status": "Defunct",
+    "productionYear": 2012,
+    "description": "Cumque id aliquam voluptate corporis consequuntur voluptas. Et quia ut itaque. Voluptatem non ipsa a. Cumque sunt illum tempora modi et hic. Aut aperiam cupiditate repellat similique veritatis voluptas enim odit."
+  },
+  {
+    "id": "Ula_XFMHiSA",
+    "plate": "30R-92330",
+    "cargoTypes": [
+      "Electronic",
+      "Clothers",
+      "Fish"
+    ],
+    "driver": "Daron Rath",
+    "type": "5 tons",
+    "price": 15000000000,
+    "dimension": [
+      14.2,
+      1.9,
+      1.9
+    ],
+    "parkingAddress": "308 Zulauf Locks",
+    "status": "Defunct",
+    "productionYear": 2011,
+    "description": "Sit libero voluptate ipsum consequatur. Non odio nam et ut vitae et officia provident nam. Beatae repellendus eligendi impedit. Ut ut quis aperiam dolorum assumenda qui earum facere. Nihil sunt delectus enim et iure. Voluptate quaerat aut ipsum quia dolorem."
+  },
+  {
+    "id": "2FtZ-yaUqQu",
+    "plate": "30M-89181",
+    "cargoTypes": [
+      "Fish",
+      "Cosmetic"
+    ],
+    "driver": "Myra Nienow",
+    "type": "5 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.7,
+      1.4,
+      2
+    ],
+    "parkingAddress": "155 Conn Glen",
+    "status": "New",
+    "productionYear": 1995,
+    "description": "Reprehenderit aut molestiae id deleniti cum modi et aut sunt. Deserunt consequatur repudiandae iusto provident quod facere sed. Necessitatibus ut sunt. Doloremque mollitia dicta quisquam."
+  },
+  {
+    "id": "vHM2paSWq1N",
+    "plate": "30D-12089",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Rickie Blick",
+    "type": "20 tons",
+    "price": 10000000000,
+    "dimension": [
+      11.2,
+      1.5,
+      1.5
+    ],
+    "parkingAddress": "045 Skye Crossing",
+    "status": "In-use",
+    "productionYear": 2009,
+    "description": "Voluptatem dolore architecto quia facilis consequatur. Aliquam nihil mollitia magni voluptates repellendus et et autem. Sit id mollitia eveniet perspiciatis voluptates accusantium dolorum. Asperiores blanditiis doloremque deleniti laboriosam natus harum praesentium sit. Ut sunt modi dicta."
+  },
+  {
+    "id": "RV0dhM2upH8",
+    "plate": "30C-70374",
+    "cargoTypes": [
+      "Cosmetic",
+      "Fish",
+      "Clothers"
+    ],
+    "driver": "Cortney Erdman",
+    "type": "20 tons",
+    "price": 11000000000,
+    "dimension": [
+      12.8,
+      1.6,
+      1.9
+    ],
+    "parkingAddress": "354 Marcia Springs",
+    "status": "Defunct",
+    "productionYear": 2013,
+    "description": "Vitae illo aut. Deleniti iusto sit quisquam magnam unde consequatur dolor similique. Minima qui consequatur natus."
+  },
+  {
+    "id": "8C7srtMPv1r",
+    "plate": "31A-16298",
+    "cargoTypes": [
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Norene Muller",
+    "type": "10 tons",
+    "price": 15000000000,
+    "dimension": [
+      14.3,
+      1.6,
+      1.8
+    ],
+    "parkingAddress": "285 Spinka Pines",
+    "status": "Defunct",
+    "productionYear": 1991,
+    "description": "Quia officiis rem. Rerum quisquam minus id aliquam ab optio laboriosam. Quos et quam perspiciatis beatae eos corporis qui. Neque explicabo aut earum voluptatibus."
+  },
+  {
+    "id": "lgdnBeEiNj8",
+    "plate": "31S-94784",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Tristin Jacobi",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      13.1,
+      1.3,
+      1.5
+    ],
+    "parkingAddress": "3250 Sanford Islands",
+    "status": "In-use",
+    "productionYear": 1990,
+    "description": "Quas quisquam deserunt earum ut facere ratione sit. Doloribus molestiae et provident. Aliquam nostrum nam esse iste quia in sed. Qui ut itaque. Facere adipisci est placeat iste totam necessitatibus est."
+  },
+  {
+    "id": "FK3J0dm8NXp",
+    "plate": "30C-84423",
+    "cargoTypes": [
+      "Gabarge"
+    ],
+    "driver": "Caroline Stoltenberg",
+    "type": "5 tons",
+    "price": 13000000000,
+    "dimension": [
+      10,
+      1.4,
+      1.3
+    ],
+    "parkingAddress": "865 Luettgen Ports",
+    "status": "Defunct",
+    "productionYear": 2002,
+    "description": "Sint magni deleniti quo qui corporis. Animi modi cum accusamus itaque dolorem facilis velit. Sint facilis nam odio consequuntur expedita. Est et ducimus. Corporis illo et eaque minima."
+  },
+  {
+    "id": "J8tdgiB8W3r",
+    "plate": "30S-22042",
+    "cargoTypes": [
+      "Clothers",
+      "Gabarge",
+      "Electronic"
+    ],
+    "driver": "Donald Heidenreich",
+    "type": "5 tons",
+    "price": 15000000000,
+    "dimension": [
+      14.3,
+      1.6,
+      1.9
+    ],
+    "parkingAddress": "612 Huel Spurs",
+    "status": "New",
+    "productionYear": 2007,
+    "description": "Repellendus quia perferendis. Quod sapiente laborum sed reprehenderit unde voluptas. Praesentium atque ex quas."
+  },
+  {
+    "id": "JEeBWY-i7D9",
+    "plate": "31T-33387",
+    "cargoTypes": [
+      "Clothers",
+      "Electronic"
+    ],
+    "driver": "Lawson Weissnat PhD",
+    "type": "20 tons",
+    "price": 12000000000,
+    "dimension": [
+      14.8,
+      1.5,
+      1.3
+    ],
+    "parkingAddress": "508 Sierra Lodge",
+    "status": "Defunct",
+    "productionYear": 1998,
+    "description": "Omnis aut est unde ea dolores labore. Doloremque vitae et esse vitae est repellendus. Tempora aut ad cupiditate. Qui eos molestiae assumenda ipsa quia et itaque facilis quia."
+  },
+  {
+    "id": "T6YsVU1de-P",
+    "plate": "30I-41853",
+    "cargoTypes": [
+      "Cosmetic",
+      "Clothers",
+      "Electronic"
+    ],
+    "driver": "Lilla Pfeffer",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      14.1,
+      1.9,
+      1.6
+    ],
+    "parkingAddress": "375 Mosciski River",
+    "status": "In-use",
+    "productionYear": 2010,
+    "description": "Facere non hic vitae et perspiciatis et molestiae quia. Facere est sed voluptate est. Modi non odio deleniti aut asperiores laborum illo incidunt qui. Aliquid fuga qui suscipit voluptatum est soluta. Laudantium officia natus eos autem deserunt."
+  },
+  {
+    "id": "wzCbC0Oan-1",
+    "plate": "31I-54383",
+    "cargoTypes": [
+      "Fish",
+      "Cosmetic"
+    ],
+    "driver": "Delilah Marks",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      10.8,
+      1.9,
+      1.2
+    ],
+    "parkingAddress": "540 Howe Dam",
+    "status": "In-use",
+    "productionYear": 1997,
+    "description": "Natus omnis impedit. Qui eligendi est ut natus assumenda iste. Aut maiores blanditiis explicabo."
+  },
+  {
+    "id": "OnCQe0TwdgU",
+    "plate": "30C-24492",
+    "cargoTypes": [
+      "Clothers"
+    ],
+    "driver": "Velma Balistreri",
+    "type": "15 tons",
+    "price": 12000000000,
+    "dimension": [
+      14.8,
+      1.6,
+      1.4
+    ],
+    "parkingAddress": "179 Luella Keys",
+    "status": "Defunct",
+    "productionYear": 2007,
+    "description": "Repellendus omnis ad voluptatibus explicabo earum consequatur. Optio commodi suscipit aut. Similique aperiam optio consequatur recusandae provident sed libero."
+  },
+  {
+    "id": "HTBmYkk7S4F",
+    "plate": "31C-35116",
+    "cargoTypes": [
+      "Cosmetic",
+      "Fish",
+      "Electronic"
+    ],
+    "driver": "Kianna Stamm",
+    "type": "10 tons",
+    "price": 15000000000,
+    "dimension": [
+      13.5,
+      1.6,
+      1.8
+    ],
+    "parkingAddress": "73250 Ritchie Road",
+    "status": "Defunct",
+    "productionYear": 1994,
+    "description": "Ipsa corporis dicta. In iusto earum quo dolorem. Corporis et impedit atque velit quaerat natus possimus reprehenderit ut. Rerum amet sed officia aut adipisci accusamus."
+  },
+  {
+    "id": "MnbABAnvOiE",
+    "plate": "30A-36394",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Albin Bednar",
+    "type": "20 tons",
+    "price": 15000000000,
+    "dimension": [
+      14.5,
+      1.8,
+      1.7
+    ],
+    "parkingAddress": "63932 Leonel Trail",
+    "status": "Defunct",
+    "productionYear": 2003,
+    "description": "Sunt eaque animi officiis provident aut. Explicabo debitis totam. Omnis voluptate est aliquid quas sed similique harum dignissimos."
+  },
+  {
+    "id": "lwtOSgNKOhE",
+    "plate": "31F-51034",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Ms. Halie Bogisich",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.9,
+      1.5,
+      1.8
+    ],
+    "parkingAddress": "28259 Mante Green",
+    "status": "New",
+    "productionYear": 2001,
+    "description": "Unde ut possimus corporis error reiciendis rerum hic saepe tempore. Culpa nisi dolorem. Ex esse explicabo porro sed est error autem eum. Repellendus numquam architecto sit qui eveniet aperiam sunt. Qui et maxime aut adipisci non quia."
+  },
+  {
+    "id": "i-oStufmUbd",
+    "plate": "30P-26046",
+    "cargoTypes": [
+      "Clothers",
+      "Fish",
+      "Cosmetic"
+    ],
+    "driver": "Nathanael Grady",
+    "type": "20 tons",
+    "price": 11000000000,
+    "dimension": [
+      11.7,
+      1.5,
+      1.8
+    ],
+    "parkingAddress": "0555 Marcellus Groves",
+    "status": "In-use",
+    "productionYear": 2018,
+    "description": "Suscipit laboriosam rerum officia mollitia ad laudantium temporibus iste quis. Explicabo neque et iusto sit. Nisi possimus illo sunt aspernatur sed delectus possimus. Minus suscipit voluptatem culpa et ab. Corrupti impedit ipsum expedita officia recusandae harum qui provident."
+  },
+  {
+    "id": "bt8EPvAatK-",
+    "plate": "30F-09832",
+    "cargoTypes": [
+      "Clothers",
+      "Fish",
+      "Vegetable"
+    ],
+    "driver": "Ewald Mayert",
+    "type": "10 tons",
+    "price": 10000000000,
+    "dimension": [
+      12.5,
+      1.2,
+      1.2
+    ],
+    "parkingAddress": "93976 Runolfsson Keys",
+    "status": "In-use",
+    "productionYear": 1992,
+    "description": "Consectetur quidem molestias aliquam animi perspiciatis est rerum maxime est. Quia nihil quis amet et. Et accusantium sapiente quis eveniet officiis laudantium et sequi. Est repellendus quam aut ea tenetur facilis. Minus ad sit nobis voluptatem officia quia maiores molestiae."
+  },
+  {
+    "id": "K5oV1Y_FPSZ",
+    "plate": "30S-55115",
+    "cargoTypes": [
+      "Clothers",
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Barbara Greenholt",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.2,
+      1.7,
+      1.7
+    ],
+    "parkingAddress": "688 Hardy Tunnel",
+    "status": "New",
+    "productionYear": 2017,
+    "description": "Mollitia ea libero ea facere aliquam excepturi. Sed optio ipsum est quo temporibus qui nulla tenetur. Dolore voluptas quaerat doloribus sit mollitia reiciendis quasi. Ipsam possimus ipsum. Illum explicabo quia perferendis."
+  },
+  {
+    "id": "MR1G_p_QfBM",
+    "plate": "31I-37718",
+    "cargoTypes": [
+      "Clothers",
+      "Gabarge",
+      "Cosmetic"
+    ],
+    "driver": "Amira Mraz",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      12.7,
+      1.3,
+      1.7
+    ],
+    "parkingAddress": "7218 Collins Underpass",
+    "status": "In-use",
+    "productionYear": 1992,
+    "description": "Eaque velit natus consequatur reprehenderit distinctio dolore repellendus. Tempora laboriosam qui possimus voluptatibus. Totam saepe et rerum excepturi sunt id officia sunt. Ipsam magni accusamus. Qui repudiandae natus placeat est voluptates optio. Voluptatem quasi porro amet debitis et aut nihil."
+  },
+  {
+    "id": "HVglxG85Y9B",
+    "plate": "31M-58017",
+    "cargoTypes": [
+      "Clothers",
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Mr. Vidal Schultz",
+    "type": "5 tons",
+    "price": 14000000000,
+    "dimension": [
+      12.3,
+      1.8,
+      1.8
+    ],
+    "parkingAddress": "303 Gail Village",
+    "status": "New",
+    "productionYear": 2001,
+    "description": "Nisi cumque est tempora voluptate velit eos ut accusamus. Sint earum et sed molestiae nihil voluptatem debitis non. Autem quod temporibus ut nostrum ea. Molestiae earum et assumenda."
+  },
+  {
+    "id": "PGpNmI4ppTx",
+    "plate": "30A-61441",
+    "cargoTypes": [
+      "Gabarge"
+    ],
+    "driver": "Kelli Kutch",
+    "type": "15 tons",
+    "price": 12000000000,
+    "dimension": [
+      13.8,
+      1.5,
+      1.3
+    ],
+    "parkingAddress": "74964 Bernice Estates",
+    "status": "Defunct",
+    "productionYear": 1998,
+    "description": "Doloremque voluptatem ullam sit voluptatem sapiente voluptatibus suscipit repudiandae. Inventore amet sed tenetur dolores et aperiam aut. Magnam numquam quia placeat sint unde architecto voluptas eum dolorem. Magnam sit nesciunt molestiae placeat animi."
+  },
+  {
+    "id": "Sps9i8eMjWp",
+    "plate": "31M-17688",
+    "cargoTypes": [
+      "Gabarge",
+      "Cosmetic"
+    ],
+    "driver": "Cletus Corwin",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      14.3,
+      1.5,
+      2
+    ],
+    "parkingAddress": "73088 Romaguera Passage",
+    "status": "New",
+    "productionYear": 2000,
+    "description": "Omnis eveniet vero. Aut veniam rem quasi magnam minus. Cumque ut ducimus qui. Omnis id accusamus. Alias nulla omnis ut illum sapiente qui dolore at."
+  },
+  {
+    "id": "8aBxYZ6Fi5I",
+    "plate": "30A-75416",
+    "cargoTypes": [
+      "Vegetable",
+      "Clothers"
+    ],
+    "driver": "Tyra Durgan",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      14.6,
+      2,
+      2
+    ],
+    "parkingAddress": "96603 Kreiger Keys",
+    "status": "Defunct",
+    "productionYear": 2002,
+    "description": "Ea eos provident nostrum. Fugit dolorem aliquam est totam earum magni dicta ipsam ut. Et eum earum dolorum amet mollitia aut quis odio. Ipsum autem accusantium ab ex totam. Et quos tempore laboriosam voluptatem et est ut laudantium necessitatibus. Excepturi et odit amet maxime voluptas modi."
+  },
+  {
+    "id": "1g7mLWawNvx",
+    "plate": "30S-49347",
+    "cargoTypes": [
+      "Vegetable",
+      "Gabarge",
+      "Clothers"
+    ],
+    "driver": "Meredith Doyle",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      13.9,
+      1.6,
+      2
+    ],
+    "parkingAddress": "282 Randy Roads",
+    "status": "In-use",
+    "productionYear": 1993,
+    "description": "Fugit perferendis aliquid impedit itaque non cumque id fuga. Id est voluptate necessitatibus quis qui adipisci dolor tenetur. Unde sit dolorum reiciendis. Beatae quo officiis. Ipsa est nulla odit dicta porro autem. Et sed quia esse voluptatem eligendi explicabo aliquam molestiae est."
+  },
+  {
+    "id": "JNlxGCLNOwr",
+    "plate": "31R-97028",
+    "cargoTypes": [
+      "Vegetable",
+      "Fish",
+      "Gabarge"
+    ],
+    "driver": "Ora Satterfield",
+    "type": "15 tons",
+    "price": 11000000000,
+    "dimension": [
+      10.9,
+      1.9,
+      1.2
+    ],
+    "parkingAddress": "8486 Eriberto Dale",
+    "status": "In-use",
+    "productionYear": 1998,
+    "description": "Et dolorem inventore accusamus deleniti. Voluptates et itaque dignissimos doloribus maxime et unde eum porro. Eos ullam enim aperiam quas voluptatem qui ullam quod qui. Non nostrum vero nobis praesentium recusandae. Impedit sapiente facere adipisci non vitae illo nihil sint."
+  },
+  {
+    "id": "lsHFG0RX5YI",
+    "plate": "30I-58020",
+    "cargoTypes": [
+      "Vegetable",
+      "Fish",
+      "Gabarge"
+    ],
+    "driver": "Hudson Beer",
+    "type": "15 tons",
+    "price": 14000000000,
+    "dimension": [
+      15,
+      1.8,
+      1.4
+    ],
+    "parkingAddress": "56622 Trantow Squares",
+    "status": "New",
+    "productionYear": 1999,
+    "description": "Odio fugit dicta quidem dignissimos. Est magnam et voluptatem distinctio odit voluptatem hic rerum possimus. Suscipit iure sit sit quos ad aliquid occaecati eaque omnis. Sapiente eos consequatur repellendus qui maiores in facilis nobis error. Veniam eos tempora rem consequatur inventore consequatur quo. Ut in culpa repellendus et aut ipsam et."
+  },
+  {
+    "id": "01B1HWNXCph",
+    "plate": "30H-47246",
+    "cargoTypes": [
+      "Vegetable"
+    ],
+    "driver": "Catherine Bode",
+    "type": "10 tons",
+    "price": 11000000000,
+    "dimension": [
+      14.3,
+      1.5,
+      1.4
+    ],
+    "parkingAddress": "946 Von Knolls",
+    "status": "New",
+    "productionYear": 1999,
+    "description": "Ut impedit esse a. Iste dolor omnis error quia explicabo. Consequuntur sunt in quisquam."
+  },
+  {
+    "id": "2WfWMh1zG87",
+    "plate": "31G-51316",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable",
+      "Clothers"
+    ],
+    "driver": "Christian Lockman",
+    "type": "20 tons",
+    "price": 15000000000,
+    "dimension": [
+      13.8,
+      1.4,
+      1.4
+    ],
+    "parkingAddress": "87055 Marshall Land",
+    "status": "Defunct",
+    "productionYear": 2011,
+    "description": "Ea iste sunt molestiae possimus rerum et. Sapiente quia aut vel et. Dolore eaque occaecati ut harum nemo aut."
+  },
+  {
+    "id": "Y2pQEESqL3m",
+    "plate": "31D-23121",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable"
+    ],
+    "driver": "Hudson Metz",
+    "type": "15 tons",
+    "price": 12000000000,
+    "dimension": [
+      12.6,
+      1.4,
+      1.8
+    ],
+    "parkingAddress": "275 Tommie Track",
+    "status": "Defunct",
+    "productionYear": 1998,
+    "description": "Sequi perferendis consequatur nostrum et eaque. Quasi error commodi. Assumenda omnis nesciunt culpa. Veniam maiores a non est expedita aspernatur nihil dicta. Enim eius quidem debitis. Et qui repellendus eos et aut."
+  },
+  {
+    "id": "tfCO5rg5mta",
+    "plate": "31W-29508",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Gracie Kub",
+    "type": "20 tons",
+    "price": 14000000000,
+    "dimension": [
+      14.2,
+      1.4,
+      1.7
+    ],
+    "parkingAddress": "73899 Hodkiewicz Trail",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Quisquam accusantium voluptas sed et rem doloremque temporibus consectetur. Quo atque molestias qui voluptatum aut nulla. Libero nam et provident consequuntur aut iure quam pariatur."
+  },
+  {
+    "id": "sKp_a-8RNIf",
+    "plate": "30C-09976",
+    "cargoTypes": [
+      "Cosmetic",
+      "Gabarge"
+    ],
+    "driver": "Mrs. Kimberly Klocko",
+    "type": "20 tons",
+    "price": 14000000000,
+    "dimension": [
+      14.6,
+      1.7,
+      1.2
+    ],
+    "parkingAddress": "535 George Stravenue",
+    "status": "New",
+    "productionYear": 2007,
+    "description": "Quisquam cupiditate totam ut est voluptatem et perferendis atque aspernatur. Voluptatum sunt dolores perspiciatis blanditiis ipsam. Accusamus laboriosam eos enim ratione. Assumenda unde delectus dolores doloribus assumenda perferendis sunt corporis esse. Ea distinctio aperiam repellat magni."
+  },
+  {
+    "id": "gCxEND-t3xn",
+    "plate": "31V-52717",
+    "cargoTypes": [
+      "Fish",
+      "Cosmetic"
+    ],
+    "driver": "Dr. Lucio Hane",
+    "type": "10 tons",
+    "price": 12000000000,
+    "dimension": [
+      12.3,
+      1.8,
+      1.4
+    ],
+    "parkingAddress": "294 Dakota Forges",
+    "status": "In-use",
+    "productionYear": 2006,
+    "description": "Blanditiis architecto magni a voluptatum aspernatur ea. Voluptatibus cupiditate voluptas qui molestiae. Distinctio error pariatur eligendi reprehenderit assumenda non consectetur dicta."
+  },
+  {
+    "id": "erBfhS_KC-O",
+    "plate": "30A-48903",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable"
+    ],
+    "driver": "Mable Jenkins",
+    "type": "10 tons",
+    "price": 13000000000,
+    "dimension": [
+      11.3,
+      1.9,
+      1.8
+    ],
+    "parkingAddress": "229 Muller Court",
+    "status": "New",
+    "productionYear": 1998,
+    "description": "Autem tenetur est dolorem deleniti nisi aspernatur. Aut occaecati dicta animi facere et et maxime impedit. Reprehenderit facilis dolorum."
+  },
+  {
+    "id": "YGqHwE7ChlG",
+    "plate": "30B-79431",
+    "cargoTypes": [
+      "Vegetable",
+      "Clothers",
+      "Cosmetic"
+    ],
+    "driver": "Thalia Gutmann",
+    "type": "5 tons",
+    "price": 10000000000,
+    "dimension": [
+      11.3,
+      2,
+      1.7
+    ],
+    "parkingAddress": "525 Lucie Junctions",
+    "status": "New",
+    "productionYear": 2008,
+    "description": "Qui quasi illo sequi. Quasi reiciendis ut quos sed aut praesentium. Asperiores est nostrum cumque sed. Ut aut aut earum incidunt porro ut."
+  },
+  {
+    "id": "l1GE2Bu4nFi",
+    "plate": "30C-59738",
+    "cargoTypes": [
+      "Electronic",
+      "Cosmetic",
+      "Clothers"
+    ],
+    "driver": "Zelda Baumbach",
+    "type": "10 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.5,
+      1.3,
+      1.2
+    ],
+    "parkingAddress": "41389 Estell Rue",
+    "status": "New",
+    "productionYear": 2007,
+    "description": "Cumque quaerat quidem provident. Est tempora eos assumenda culpa voluptatibus suscipit distinctio. Aut minima rem omnis id ea ullam unde. Omnis nam consectetur reprehenderit nesciunt. Velit libero velit. Aut dolores quia vel sed."
+  },
+  {
+    "id": "cp5y8Efv8tq",
+    "plate": "30F-99013",
+    "cargoTypes": [
+      "Clothers",
+      "Gabarge",
+      "Vegetable"
+    ],
+    "driver": "Margarett Rice",
+    "type": "20 tons",
+    "price": 15000000000,
+    "dimension": [
+      10.8,
+      1.2,
+      1.6
+    ],
+    "parkingAddress": "9197 Runolfsdottir Islands",
+    "status": "New",
+    "productionYear": 2017,
+    "description": "Minima beatae modi nihil in aut ducimus earum deleniti et. Distinctio minus excepturi voluptas quam unde fuga facilis quaerat et. Dolore praesentium eligendi. Dolorum laboriosam omnis minus fuga sequi facere. Dolores mollitia dolor ipsa facere. Voluptatum ab nam magnam."
+  },
+  {
+    "id": "3CHZ5pdgmxR",
+    "plate": "31M-21860",
+    "cargoTypes": [
+      "Vegetable",
+      "Clothers"
+    ],
+    "driver": "Preston Reichel",
+    "type": "20 tons",
+    "price": 12000000000,
+    "dimension": [
+      10,
+      2,
+      1.3
+    ],
+    "parkingAddress": "897 Gilberto Loop",
+    "status": "In-use",
+    "productionYear": 2010,
+    "description": "Sint corporis voluptatem aperiam repellat vitae est. Molestias ut aliquam expedita est temporibus. Voluptas magni sit est incidunt est quia quia molestias odit. Ut reprehenderit assumenda et dignissimos."
+  },
+  {
+    "id": "ZajGBXxTXUI",
+    "plate": "31S-31115",
+    "cargoTypes": [
+      "Electronic",
+      "Vegetable"
+    ],
+    "driver": "Lilly Feeney",
+    "type": "10 tons",
+    "price": 14000000000,
+    "dimension": [
+      14.9,
+      1.4,
+      1.5
+    ],
+    "parkingAddress": "32507 Hilario Mountains",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Praesentium dolore est. Aut odit aspernatur ut et ratione amet. Recusandae sit consectetur minima dolorem nam. Numquam vitae eos vitae est voluptas repellendus similique repellat quo. Voluptatem optio itaque hic enim nesciunt hic quia odio nihil. Ut aut et sit officiis est."
+  },
+  {
+    "id": "ZF0uYW7q1pq",
+    "plate": "30I-10514",
+    "cargoTypes": [
+      "Cosmetic"
+    ],
+    "driver": "Ernest Schmidt",
+    "type": "20 tons",
+    "price": 13000000000,
+    "dimension": [
+      14,
+      1.2,
+      2
+    ],
+    "parkingAddress": "620 Claudie Manor",
+    "status": "New",
+    "productionYear": 1990,
+    "description": "Provident amet aliquid voluptatem repellendus possimus eius. Sit sint aperiam non rerum odit quis. Eos id impedit ut ad natus veritatis odio nesciunt."
+  },
+  {
+    "id": "s-jxg9wt1-J",
+    "plate": "31N-74154",
+    "cargoTypes": [
+      "Gabarge",
+      "Clothers"
+    ],
+    "driver": "Payton Koepp V",
+    "type": "10 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.3,
+      2,
+      1.3
+    ],
+    "parkingAddress": "52876 Stroman Freeway",
+    "status": "New",
+    "productionYear": 1992,
+    "description": "Nihil cumque dolorem ea inventore aut tempore. Illo reprehenderit itaque autem libero quos esse in optio. Aspernatur et porro id et officiis aut. Quo qui dolores. Laudantium unde aut aperiam minima enim repellendus doloribus quasi fugit."
+  },
+  {
+    "id": "Lbu_NbFHb87",
+    "plate": "31C-91683",
+    "cargoTypes": [
+      "Electronic",
+      "Gabarge",
+      "Cosmetic"
+    ],
+    "driver": "Isadore Abernathy",
+    "type": "5 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.8,
+      1.8,
+      1.2
+    ],
+    "parkingAddress": "8951 Emily Vista",
+    "status": "In-use",
+    "productionYear": 2005,
+    "description": "Praesentium saepe nam praesentium nihil accusantium dolorem nihil ducimus. Itaque rerum quam est sunt non. Soluta corrupti labore exercitationem deleniti fugit architecto voluptates. Tempore itaque explicabo accusamus. Nihil suscipit reprehenderit nobis reiciendis suscipit autem nesciunt eveniet."
+  },
+  {
+    "id": "wwCjVxC2Q5v",
+    "plate": "30I-84328",
+    "cargoTypes": [
+      "Gabarge",
+      "Fish",
+      "Clothers"
+    ],
+    "driver": "Meda Kautzer MD",
+    "type": "5 tons",
+    "price": 12000000000,
+    "dimension": [
+      13.1,
+      1.5,
+      1.3
+    ],
+    "parkingAddress": "4799 Brekke Station",
+    "status": "New",
+    "productionYear": 1997,
+    "description": "Quis aliquam nostrum. Eligendi exercitationem cupiditate fugiat. Neque consequatur sint enim. Sint cum excepturi beatae. Officia libero ipsa esse sequi dolore."
+  },
+  {
+    "id": "R7KCam4wS_s",
+    "plate": "30M-31238",
+    "cargoTypes": [
+      "Gabarge"
+    ],
+    "driver": "Aniya Schaden",
+    "type": "5 tons",
+    "price": 12000000000,
+    "dimension": [
+      10.6,
+      1.4,
+      1.9
+    ],
+    "parkingAddress": "79670 Witting Walk",
+    "status": "New",
+    "productionYear": 2016,
+    "description": "Molestias aliquid ipsum. Dignissimos voluptas dolores et et beatae nemo autem. Est molestias commodi aut non cum. Porro ullam laborum assumenda quam impedit unde laborum ratione consectetur. Accusamus pariatur omnis laudantium sit cupiditate neque et nihil laborum. Cumque sint quidem."
+  },
+  {
+    "id": "icA3op9h9cd",
+    "plate": "30P-44469",
+    "cargoTypes": [
+      "Gabarge",
+      "Electronic",
+      "Clothers"
+    ],
+    "driver": "Santino Rutherford",
+    "type": "10 tons",
+    "price": 10000000000,
+    "dimension": [
+      13.2,
+      1.8,
+      1.8
+    ],
+    "parkingAddress": "870 Winfield Trafficway",
+    "status": "New",
+    "productionYear": 1994,
+    "description": "Quis et dolores assumenda nam. Qui cupiditate qui iste vero voluptatibus. Eos sit illum ad id aliquam est minus."
+  },
+  {
+    "id": "olng9uLzt7X",
+    "plate": "30M-90556",
+    "cargoTypes": [
+      "Electronic",
+      "Cosmetic"
+    ],
+    "driver": "June Waters",
+    "type": "15 tons",
+    "price": 10000000000,
+    "dimension": [
+      14.3,
+      2,
+      1.8
+    ],
+    "parkingAddress": "358 Becker Ramp",
+    "status": "In-use",
+    "productionYear": 2016,
+    "description": "Corporis est eos ut cum. Sint non quo ab. Voluptatem dignissimos dolorum corrupti. Omnis provident quo ut voluptates voluptatem nisi. Et voluptatum aut quia ipsum quidem laboriosam tempore."
+  },
+  {
+    "id": "Ey477qNTvk1",
+    "plate": "31O-54683",
+    "cargoTypes": [
+      "Clothers",
+      "Electronic",
+      "Fish"
+    ],
+    "driver": "Javonte Kautzer",
+    "type": "15 tons",
+    "price": 11000000000,
+    "dimension": [
+      11.3,
+      1.3,
+      1.3
+    ],
+    "parkingAddress": "5039 West Viaduct",
+    "status": "Defunct",
+    "productionYear": 2003,
+    "description": "Voluptatibus repellendus itaque eligendi eos adipisci labore provident. Aut ducimus omnis aut omnis magni consequuntur voluptatibus. Nam est repudiandae doloribus maxime doloremque nostrum architecto. Suscipit quos quidem sed fuga aspernatur error consectetur natus vero. Aut iste corporis asperiores fugiat ullam. Repellat ut inventore mollitia voluptas beatae dolorem provident tenetur ratione."
+  },
+  {
+    "id": "azwekfeKM1j",
+    "plate": "30S-03238",
+    "cargoTypes": [
+      "Clothers"
+    ],
+    "driver": "Nova Adams",
+    "type": "5 tons",
+    "price": 11000000000,
+    "dimension": [
+      11.7,
+      1.2,
+      1.3
+    ],
+    "parkingAddress": "198 Donnelly Ways",
+    "status": "Defunct",
+    "productionYear": 2003,
+    "description": "Nisi neque repellendus aut fuga aut accusamus vero et est. Sunt nam veniam ut illum. Nobis atque inventore dolores."
+  },
+  {
+    "id": "FggkmuHn-kJ",
+    "plate": "30Z-43470",
+    "cargoTypes": [
+      "Cosmetic",
+      "Vegetable",
+      "Electronic"
+    ],
+    "driver": "Toni Bernhard",
+    "type": "20 tons",
+    "price": 13000000000,
+    "dimension": [
+      13.8,
+      1.7,
+      1.3
+    ],
+    "parkingAddress": "11512 Fay Keys",
+    "status": "Defunct",
+    "productionYear": 2019,
+    "description": "Nam non et quod ipsam laborum. Aliquid doloremque est est sit debitis maxime porro. Fugit totam culpa eius porro non similique."
+  },
+  {
+    "id": "IXsHuuRE0O0",
+    "plate": "31P-81707",
+    "cargoTypes": [
+      "Clothers"
+    ],
+    "driver": "Chad O'Connell",
+    "type": "10 tons",
+    "price": 11000000000,
+    "dimension": [
+      14.1,
+      1.3,
+      1.3
+    ],
+    "parkingAddress": "7009 Schmeler Prairie",
+    "status": "Defunct",
+    "productionYear": 2007,
+    "description": "Nobis perspiciatis eius consequuntur numquam pariatur omnis minima vel. Voluptates mollitia deleniti ut. Ut pariatur vitae nulla itaque error sit minima est accusamus."
+  },
+  {
+    "id": "zSGcb2R2e2q",
+    "plate": "31C-18398",
+    "cargoTypes": [
+      "Fish"
+    ],
+    "driver": "Hilario Abbott DDS",
+    "type": "20 tons",
+    "price": 14000000000,
+    "dimension": [
+      10.9,
+      1.7,
+      1.6
+    ],
+    "parkingAddress": "1554 Rusty Lake",
+    "status": "In-use",
+    "productionYear": 1996,
+    "description": "Voluptatem nam error recusandae dolorem. Voluptate commodi commodi autem perferendis dolor. Aut vel sunt blanditiis officia. Accusantium quia ea nihil ullam distinctio itaque quisquam est."
+  }
+]

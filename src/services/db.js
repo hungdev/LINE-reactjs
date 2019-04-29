@@ -6,7 +6,7 @@ const db = low(adapter);
 
 db.defaults({
   users: [],
-  trucks: [],
+  trucks: require('./seeds/trucks.json'),
 }).write();
 
 export default db;
