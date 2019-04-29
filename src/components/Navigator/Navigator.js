@@ -1,7 +1,8 @@
+/* eslint-disable */
 import React from 'react';
 import { withRouter } from 'react-router-dom';
 import Box from 'ui-box';
-import { Strong, Heading, Link } from 'evergreen-ui';
+import { Strong, Heading } from 'evergreen-ui';
 import './Navigator.scss';
 import Auth from '../../containers/Auth';
 import authService from '../../services/authentication';

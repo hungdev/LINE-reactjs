@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Heading, Card, TextInputField, Text, Button, Alert } from 'evergreen-ui';

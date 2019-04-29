@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import Helmet from 'react-helmet';
 import { Heading, Button, Card, Small, toaster } from 'evergreen-ui';

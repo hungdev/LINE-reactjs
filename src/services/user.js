@@ -1,7 +1,7 @@
 import db from './db';
 
 const users = {
-  findByCredential(username, password ) {
+  findByCredential(username, password) {
     return db.get('users').find({ username, password }).value();
   },
 

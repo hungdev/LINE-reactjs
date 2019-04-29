@@ -3,7 +3,7 @@ import users from './user';
 import utils from './utils';
 
 const authService = {
-  current: localStorage.getItem('user') && JSON.parse(localStorage.getItem('user')) || null,
+  current: (localStorage.getItem('user') && JSON.parse(localStorage.getItem('user'))) || null,
   events: new EventEmitter(),
 
   async register({ username, email, password }) {
@@ -17,7 +17,7 @@ const authService = {
       country: 'VN',
       notifyMe: false,
     };
-    
+
     await users.create(user);
   },
 
@@ -34,7 +34,7 @@ const authService = {
     this.current = user;
     localStorage.setItem('user', JSON.stringify(user));
     this.events.emit('stateChanged', user);
-  }
+  },
 };
 
 export default authService;

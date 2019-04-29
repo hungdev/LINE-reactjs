@@ -2,7 +2,10 @@ import React from 'react';
 import Box from 'ui-box';
 import { Redirect } from 'react-router-dom';
 import Helmet from 'react-helmet';
-import { Pane, Card, Heading, Text, Strong, Paragraph, UnorderedList, ListItem, Table, Spinner, Popover, Button, IconButton, Menu, Select, SideSheet, toaster } from 'evergreen-ui';
+import {
+  Pane, Card, Heading, Text, Strong, Paragraph, UnorderedList,
+  ListItem, Table, Spinner, Popover, Button, IconButton, Menu, Select, SideSheet, toaster,
+} from 'evergreen-ui';
 import truckService from '../../../services/trucks';
 import Auth from '../../../containers/Auth';
 import Dashboard from '../../../containers/Dashboard';
@@ -25,14 +28,14 @@ class TruckList extends React.PureComponent {
   componentDidMount() {
     this.doFetch(1);
   }
-  
+
   pageSelected(page) {
     this.doFetch(Number(page));
   }
 
   popup(item) {
     this.setState({
-      popup: item
+      popup: item,
     });
   }
 
@@ -73,7 +76,9 @@ class TruckList extends React.PureComponent {
         </Table.Head>
         <Table.Body>
           {items.map((item) => {
-            const { id, plate, cargoTypes, type, dimension, productionYear, status} = item;
+            const {
+              id, plate, cargoTypes, type, dimension, productionYear, status,
+            } = item;
             return (
               <Table.Row key={id}>
                 <Table.TextCell textProps={{ fontWeight: 600 }}>{plate}</Table.TextCell>
@@ -91,8 +96,9 @@ class TruckList extends React.PureComponent {
                         <Menu.Item intent="danger">Delete</Menu.Item>
                       </Menu.Group>
                     </Menu>
-                  )}>
-                    <IconButton appearance="minimal" icon="more"/>
+                  )}
+                  >
+                    <IconButton appearance="minimal" icon="more" />
                   </Popover>
                 </Table.Cell>
               </Table.Row>
@@ -117,7 +123,7 @@ class TruckList extends React.PureComponent {
           <IconButton icon="chevron-left" height={24} disabled={page < 2} onClick={() => this.pageSelected(page - 1)} />
           <Select value={page} height={24} width={64} onChange={ev => this.pageSelected(ev.target.value)}>
             {Array(maxPage).fill().map((_, i) => (
-              <option key={i+1} value={i+1}>{i+1}</option>
+              <option key={i + 1} value={i + 1}>{i + 1}</option>
             ))}
           </Select>
           <IconButton icon="chevron-right" height={24} disabled={page >= maxPage} onClick={() => this.pageSelected(page + 1)} />
@@ -127,7 +133,7 @@ class TruckList extends React.PureComponent {
   }
 
   renderSideSheet() {
-    const popup = this.state.popup;
+    const { popup } = this.state;
     return popup && (
       <SideSheet
         isShown={!!popup}
@@ -149,7 +155,7 @@ class TruckList extends React.PureComponent {
           <Card background="tint1" elevation={0} border padding={8} marginBottom={8}>
             <Heading is="h3" size={100}>Cargo Types</Heading>
             <UnorderedList size={300}>
-              {popup.cargoTypes.map((type) => (<ListItem key={type}>{type}</ListItem>))}
+              {popup.cargoTypes.map(type => (<ListItem key={type}>{type}</ListItem>))}
             </UnorderedList>
           </Card>
           <Card background="tint1" elevation={0} border padding={8} marginBottom={8}>
@@ -184,37 +190,41 @@ class TruckList extends React.PureComponent {
   }
 
   render() {
+    const loaded = !!this.state.items;
     return (
-      <Auth guest={() => <Redirect to="/"/>} auth={user => (
-        <Dashboard>
-          <Helmet>
-            <title>Truck management</title>
-          </Helmet>
-          <Pane className="truck-list" background="tint1" elevation={1} border marginTop={32}>
-            <Box display="flex" flexDirection="row">
-              <Box flex="1">
-                <Heading size={600}>Trucks List</Heading>
-                <Text color="muted" fontSize="10pt">Below is the list of trucks from system</Text>
+      <Auth
+        guest={() => <Redirect to="/" />}
+        auth={() => (
+          <Dashboard>
+            <Helmet>
+              <title>Truck management</title>
+            </Helmet>
+            <Pane className="truck-list" background="tint1" elevation={1} border marginTop={32}>
+              <Box display="flex" flexDirection="row">
+                <Box flex="1">
+                  <Heading size={600}>Trucks List</Heading>
+                  <Text color="muted" fontSize="10pt">Below is the list of trucks from system</Text>
+                </Box>
+                <Box alignSelf="center">
+                  <Button appearance="primary" intent="success" height={32} onClick={() => this.props.history.push('/trucks/new')}>New</Button>
+                </Box>
               </Box>
-              <Box alignSelf="center">
-                <Button appearance="primary" intent="success" height={32} onClick={() => this.props.history.push('/trucks/new')}>New</Button>
-              </Box>
-            </Box>
-            <Box height={24} />
-            {(this.state.items && (
-              <React.Fragment>
-                {this.renderTable()}
-                {this.renderPaginator()}
-              </React.Fragment>
-            )) || (
-              <Box width="100%" paddingY="64px" textAlign="center">
-                <Spinner marginX="auto" />
-              </Box>
-            )}
-          </Pane>
-          {this.renderSideSheet()}
-        </Dashboard>
-      )}/>
+              <Box height={24} />
+              {(loaded && (
+                <React.Fragment>
+                  {this.renderTable()}
+                  {this.renderPaginator()}
+                </React.Fragment>
+              )) || (
+                <Box width="100%" paddingY="64px" textAlign="center">
+                  <Spinner marginX="auto" />
+                </Box>
+              )}
+            </Pane>
+            {this.renderSideSheet()}
+          </Dashboard>
+        )}
+      />
     );
   }
 }
