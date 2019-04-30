@@ -25,7 +25,7 @@ const initialValues = {
   description: 'description',
 };
 
-class TruckList extends React.PureComponent {
+class TruckCreate extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {};
@@ -64,8 +64,7 @@ class TruckList extends React.PureComponent {
                 </Box>
               </Box>
               <Box height={24} />
-              <TruckEditor initialValues={initialValues} submitTitle="Create" onSubmit={this.onSubmit}>
-              </TruckEditor>
+              <TruckEditor initialValues={initialValues} submitTitle="Create" onSubmit={this.onSubmit} />
             </Pane>
           </Dashboard>
         )}
@@ -74,4 +73,4 @@ class TruckList extends React.PureComponent {
   }
 }
 
-export default TruckList;
+export default TruckCreate;
