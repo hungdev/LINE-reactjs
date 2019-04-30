@@ -21,7 +21,7 @@ const truckSchema = Yup.object().shape({
 }).noUnknown();
 
 const truckTypes = [5, 10, 15, 20].map(x => `${x} tons`);
-const cargoTypes = ['Fish', 'Vegetable', 'Garbage'].map(x => ({ label: x, value: x }));
+const cargoTypes = ['Electronic', 'Vegetable', 'Fish', 'Gabarge', 'Cosmetic', 'Clothers'].map(x => ({ label: x, value: x }));
 const truckStatuses = ['New', 'In-Use', 'Defunct'].map(x => ({ label: x, value: x }));
 
 const labelMultiFor = function labelMultiFor(values) {
