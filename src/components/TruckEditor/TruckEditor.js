@@ -224,7 +224,7 @@ class TruckEditor extends React.PureComponent {
               <Box display="flex" flexDirection="row">
                 <Box flex="1" />
                 <Box justifySelf="end">
-                  <Button intent="success" isLoading={form.isSubmitting} appearance="primary" type="submit">Create</Button>
+                  <Button intent="success" isLoading={form.isSubmitting} appearance="primary" type="submit">{this.props.submitTitle || 'Create'}</Button>
                 </Box>
               </Box>
             )}

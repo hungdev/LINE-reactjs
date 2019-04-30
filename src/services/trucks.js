@@ -19,7 +19,12 @@ const trucks = {
   },
   async get(id) {
     await utils.delay(500);
-    return db.get('trucks').find(t => t.id === id).value();
+    const truck = db.get('trucks').find(t => t.id === id).value();
+    if (!truck) {
+      throw new Error(`Truck with ID ${id} not found`);
+    }
+
+    return truck;
   },
   async update(id, truck) {
     await utils.delay(500);

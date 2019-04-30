@@ -45,9 +45,13 @@ class TruckList extends React.PureComponent {
       toaster.notify('Truck deleted');
       this.doFetch(1);
     } catch (error) {
-      toaster.error(`Unable to delete truck: ${error.message}`);
+      toaster.danger(`Unable to delete truck: ${error.message}`);
       console.error(error);
     }
+  }
+
+  edit(item) {
+    this.props.history.push(`/trucks/edit/${item.id}`);
   }
 
   async doFetch(page) {
@@ -103,7 +107,7 @@ class TruckList extends React.PureComponent {
                     <Menu>
                       <Menu.Group>
                         <Menu.Item onSelect={() => this.popup(item)}>View</Menu.Item>
-                        <Menu.Item>Edit</Menu.Item>
+                        <Menu.Item onSelect={() => this.edit(item)}>Edit</Menu.Item>
                         <Menu.Item intent="danger" onSelect={() => this.delete(item)}>Delete</Menu.Item>
                       </Menu.Group>
                     </Menu>

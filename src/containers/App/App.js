@@ -10,6 +10,7 @@ import ProfileEditor from '../../pages/ProfileEditor';
 
 import TruckList from '../../pages/trucks/TruckList';
 import TruckCreate from '../../pages/trucks/TruckCreate';
+import TruckEdit from '../../pages/trucks/TruckEdit';
 
 class App extends React.Component {
   render() {
@@ -24,6 +25,7 @@ class App extends React.Component {
         {/* Trucks management */}
         <Route path="/trucks" exact component={TruckList}/>
         <Route path="/trucks/new" exact component={TruckCreate}/>
+        <Route path="/trucks/edit/:id" exact component={TruckEdit}/>
         {/* Fallback rounte - Not found */}
         <Route component={NotFound}/>
       </Switch>
