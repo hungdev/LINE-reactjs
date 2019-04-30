@@ -8,14 +8,14 @@ import {
 import * as Yup from 'yup';
 
 const truckSchema = Yup.object().shape({
-  plate: Yup.string().required().matches(/^\d{2}[A-Z]-\d{4,5}$/, 'Truck plate is incorrect'),
-  driver: Yup.string().required().min(2),
-  type: Yup.string().required(),
-  price: Yup.number().required().positive(),
-  cargoTypes: Yup.array().required().of(Yup.string()),
-  dimension: Yup.array().min(3).max(3).of(Yup.number().required().positive()),
-  parkingAddress: Yup.string().required().max(200),
-  description: Yup.string().required().max(500),
+  plate: Yup.string().label('Truck plate').required().matches(/^\d{2}[A-Z]-\d{4,5}$/, 'Truck plate is incorrect'),
+  driver: Yup.string().label('Driver').required().min(2),
+  type: Yup.string().label('Truck type').required(),
+  price: Yup.number().label('Truck price').required().positive(),
+  cargoTypes: Yup.array().label('Cargo types').required().of(Yup.string()),
+  dimension: Yup.array().label('Dimension').min(3).max(3).of(Yup.number().required().positive()), // eslint-disable-line
+  parkingAddress: Yup.string().label('Parking address').required().max(500),
+  description: Yup.string().label('Description').required().max(200),
 }).noUnknown();
 
 const truckTypes = [5, 10, 15, 20].map(x => `${x} tons`);
@@ -41,7 +41,7 @@ class TruckEditor extends React.PureComponent {
   render() {
     const { children, initialValues, onSubmit } = this.props;
     return (
-      <Formik initialValues={initialValues} onSubmit={values => onSubmit(truckSchema.cast(values))} validationSchema={truckSchema}>
+      <Formik initialValues={initialValues} onSubmit={(values, options) => onSubmit(truckSchema.cast(values), options)} validationSchema={truckSchema}>
         <Form>
           <Box display="flex" flexDirection="row" flexWrap="wrap">
             <Box width="50%" padding={4}>
@@ -109,7 +109,12 @@ class TruckEditor extends React.PureComponent {
             <Box width="50%" padding={4}>
               <Field name="cargoTypes">
                 {({ field, form }) => (
-                  <FormField label="Cargo Types" isRequired description="One or more cargo types">
+                  <FormField
+                    label="Cargo Types"
+                    isRequired
+                    description="One or more cargo types"
+                    validationMessage={form.errors[field.name]}
+                  >
                     <SelectMenu
                       isMultiSelect
                       title="Select cargo types"
@@ -125,21 +130,26 @@ class TruckEditor extends React.PureComponent {
               </Field>
             </Box>
             <Box width="50%" padding={4}>
-              <FormField label="Dimension" isRequired description="Dimension of the truck" hint="In Length-Width-Height format">
+              <FormField
+                label="Dimension"
+                isRequired
+                description="Dimension of the truck"
+                hint="In Length-Width-Height format"
+              >
                 <Box display="flex" flexDirection="row" justifyContent="space-between">
                   <Field name="dimension[0]">
-                    {({ field }) => (
-                      <TextInput {...field} width="30%" height={24} />
+                    {({ field, form }) => (
+                      <TextInput {...field} width="30%" height={24} isInvalid={!!(form.errors.dimension && form.errors.dimension[0])} />
                     )}
                   </Field>
                   <Field name="dimension[1]">
-                    {({ field }) => (
-                      <TextInput {...field} width="30%" height={24} />
+                    {({ field, form }) => (
+                      <TextInput {...field} width="30%" height={24} isInvalid={!!(form.errors.dimension && form.errors.dimension[1])} />
                     )}
                   </Field>
                   <Field name="dimension[2]">
-                    {({ field }) => (
-                      <TextInput {...field} width="30%" height={24} />
+                    {({ field, form }) => (
+                      <TextInput {...field} width="30%" height={24} isInvalid={!!(form.errors.dimension && form.errors.dimension[2])} />
                     )}
                   </Field>
                 </Box>
@@ -152,12 +162,11 @@ class TruckEditor extends React.PureComponent {
                     label="Parking address"
                     description="Parking address of the truck"
                     placeholder="17 Duy Tan st."
-                    hint={`${field.value.length}/200 characters`}
+                    hint={`${field.value.length}/500 characters`}
                     required
-                    isInvalid={!!form.errors[field.name]}
                     validationMessage={form.errors[field.name]}
                   >
-                    <Textarea lines={2} {...field} />
+                    <Textarea lines={2} {...field} isInvalid={!!form.errors[field.name]} />
                   </FormField>
                 )}
               </Field>
@@ -171,10 +180,9 @@ class TruckEditor extends React.PureComponent {
                     placeholder="17 Duy Tan st."
                     hint={`${field.value.length}/200 characters`}
                     required
-                    isInvalid={!!form.errors[field.name]}
                     validationMessage={form.errors[field.name]}
                   >
-                    <Textarea lines={2} {...field} />
+                    <Textarea lines={2} {...field} isInvalid={!!form.errors[field.name]} />
                   </FormField>
                 )}
               </Field>
