@@ -16,6 +16,8 @@ const truckSchema = Yup.object().shape({
   dimension: Yup.array().label('Dimension').min(3).max(3).of(Yup.number().required().positive()), // eslint-disable-line
   parkingAddress: Yup.string().label('Parking address').required().max(500),
   description: Yup.string().label('Description').required().max(200),
+  productionYear: Yup.number().label('Production year').required().max(2020),
+  status: Yup.string().label('Status').required(),
 }).noUnknown();
 
 const truckTypes = [5, 10, 15, 20].map(x => `${x} tons`);
@@ -39,7 +41,9 @@ const labelMultiFor = function labelMultiFor(values) {
 /* eslint-disable-next-line react/prefer-stateless-function */
 class TruckEditor extends React.PureComponent {
   render() {
-    const { children, initialValues, onSubmit } = this.props;
+    const {
+      initialValues, onSubmit,
+    } = this.props;
     return (
       <Formik initialValues={initialValues} onSubmit={(values, options) => onSubmit(truckSchema.cast(values), options)} validationSchema={truckSchema}>
         <Form>
@@ -203,7 +207,7 @@ class TruckEditor extends React.PureComponent {
             <Box width="50%" padding={4}>
               <Field name="status">
                 {({ field, form }) => (
-                  <FormField label="Status">
+                  <FormField label="Status" validationMessage={form.errors[field.name]}>
                     <SegmentedControl
                       options={truckStatuses}
                       {...field}
@@ -215,7 +219,16 @@ class TruckEditor extends React.PureComponent {
             </Box>
           </Box>
           <Box height={16} />
-          {children}
+          <Field>
+            {({ form }) => (
+              <Box display="flex" flexDirection="row">
+                <Box flex="1" />
+                <Box justifySelf="end">
+                  <Button intent="success" isLoading={form.isSubmitting} appearance="primary" type="submit">Create</Button>
+                </Box>
+              </Box>
+            )}
+          </Field>
         </Form>
       </Formik>
     );

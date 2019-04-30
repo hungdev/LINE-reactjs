@@ -3,7 +3,7 @@ import Box from 'ui-box';
 import { Redirect } from 'react-router-dom';
 import Helmet from 'react-helmet';
 import {
-  Pane, Heading, Text, IconButton, Button,
+  Pane, Heading, Text, IconButton, toaster,
 } from 'evergreen-ui';
 import truckService from '../../../services/trucks';
 import Auth from '../../../containers/Auth';
@@ -29,6 +29,19 @@ class TruckList extends React.PureComponent {
   constructor(props) {
     super(props);
     this.state = {};
+    this.onSubmit = this.onSubmit.bind(this);
+  }
+
+  async onSubmit(values, { setSubmitting }) {
+    try {
+      await truckService.create(values);
+      toaster.success('Truck created successfully');
+      this.props.history.push('/trucks');
+    } catch (error) {
+      toaster.error(`Unable to create truck: ${error.message}`);
+      console.error(error);
+    }
+    setSubmitting(false);
   }
 
   render() {
@@ -51,13 +64,7 @@ class TruckList extends React.PureComponent {
                 </Box>
               </Box>
               <Box height={24} />
-              <TruckEditor initialValues={initialValues} onSubmit={e => console.log(e)}>
-                <Box display="flex" flexDirection="row">
-                  <Box flex="1" />
-                  <Box justifySelf="end">
-                    <Button intent="success" appearance="primary" type="submit">Create</Button>
-                  </Box>
-                </Box>
+              <TruckEditor initialValues={initialValues} submitTitle="Create" onSubmit={this.onSubmit}>
               </TruckEditor>
             </Pane>
           </Dashboard>
