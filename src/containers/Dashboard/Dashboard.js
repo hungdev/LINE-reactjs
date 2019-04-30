@@ -9,7 +9,7 @@ class Dashboard extends React.Component {
     return (
       <Beauty>
         <Navigator />
-        <Box flex={1}>
+        <Box flex={1} paddingBottom={16}>
           {this.props.children}
         </Box>
       </Beauty>
