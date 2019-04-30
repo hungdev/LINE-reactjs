@@ -4,6 +4,10 @@ LINE ReactJS Test
 This repository is my (Ngo Xuan Bach) submission for the entry test.
 This project was a fork of my current working *React Starter* project, which includes some feature that is not in your requirements.
 
+A live version of this project is available at [**HERE**](https://line-test.surge.sh/).
+
+> *NOTE:* This project use a mock backend backed by **localStorage**. So in case you want to start over, head to **chrome-devtools** (or alternatives of other browsers) and remove all localStorage records.
+
 ## Getting started
 
 First, you need clone (or extract) this project and install node modules by running
@@ -36,7 +40,18 @@ Run unit tests by running this command
 ```sh
 npm t
 ```
-> You can see my unit tests in `test/` directory.
+
+> You can see my unit tests in **test/** directory.
+
+### Building for production
+
+To build this project in production mode, you can use
+
+```
+npm run build
+```
+
+The built asset is available at **dist/** directory.
 
 ## License
 
