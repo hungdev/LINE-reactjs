@@ -23,7 +23,13 @@
     "yup": "^0.26.10"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.4.4",
+    "ava": "^1.4.1",
     "babel-eslint": "^10.0.1",
+    "browser-env": "^3.2.6",
     "eslint": "^5.16.0",
     "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.17.2",
@@ -37,7 +43,17 @@
     "start": "parcel serve src/index.pug",
     "build": "parcel build --no-source-maps src/index.pug",
     "clean": "rm -rf .cache dist",
-    "lint": "eslint src/"
+    "lint": "eslint src/",
+    "test": "ava"
+  },
+  "ava": {
+    "require": [
+      "./test/_register.js"
+    ],
+    "testOptions": {
+      "babelrc": false,
+      "configFile": false
+    }
   },
   "keywords": [],
   "author": "BachNX <thanbaiks@gmail.com>",
